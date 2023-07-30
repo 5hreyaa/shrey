@@ -3,4 +3,5 @@
 ## learning git
 
 hello everyone
-commit new file
+
+this is git
